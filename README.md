@@ -11,7 +11,7 @@ Visualization: Alerts are visualized via a dashboard in the car, providing clear
 This system aims to improve road safety by reducing the risks of accidents caused by drowsy driving. It’s an efficient, affordable, and scalable solution for real-time monitoring in vehicles.
 
 ### Prerequisites:
-Python
-OpenCV
-ESP32 setup
-Camera
+Python ,
+OpenCV , 
+ESP32 setup ,
+Camera ,
